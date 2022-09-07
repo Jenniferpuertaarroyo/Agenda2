@@ -27,3 +27,19 @@ en starUMTL la variable se usa en un rectangulo.
 ## Nuevo Item
 
 Con un texto
+
+## nuevo programa 
+
+```
+
+sub lista 
+ 
+ for b = 2 to 21
+  nomb = tabla.cells(b, 1)
+  ult = len (nomb) - 1
+  tabla.cells = (nomb, ult, 2)
+ next b 
+
+ens sub 
+
+```
